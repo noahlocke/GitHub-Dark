@@ -217,8 +217,8 @@
 /*! Repository: https://github.com/StylishThemes/GitHub-Dark    */
 /*! License:    https://creativecommons.org/licenses/by-sa/4.0/ */
   :root {
-    --bg-custom: /*[[bg-custom]]*/;
-    --bg-img: /*[[bg-choice]]*/;
+    --bg-custom: rgb(32,33,36);
+    --bg-img: none;
   }
   button {
     color: #b5b5b5;
